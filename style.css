@@ -1,0 +1,13 @@
+li{
+    margin-top: 10px;
+    font-size: 14pt;
+    border: 1px solid black;
+    width: max-content;
+}
+li:hover{
+    font-size: 18pt;
+    color:red;
+}
+.underline{
+    text-decoration: line-through;
+}
